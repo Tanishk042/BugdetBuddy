@@ -38,6 +38,11 @@ BudgetBuddy is a modern, user-friendly expense tracking application built with R
 
 4. Open [http://localhost:8080](http://localhost:8080) in your browser
 
+## Deployment
+
+The application is deployed on GitHub Pages and can be accessed at:
+[https://tanishk042.github.io/BugdetBuddy/](https://tanishk042.github.io/BugdetBuddy/)
+
 ## Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
